@@ -25,11 +25,7 @@
 
 ### 🌟 Projects & Open Source
 
-- **[Project 1](#)** – A scalable Spring Boot web application with React frontend  
-- **[Project 2](#)** – Python-based data analysis and visualization tool  
-- **[Project 3](#)** – Full-stack CRUD application with PostgreSQL backend  
-
-*(Add links to your GitHub repositories for each project.)*
+- **[Project 1](#)** – Full-stack CRUD application with MySql backend  
 
 ---
 
@@ -43,8 +39,8 @@
 
 ### 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/frequency1-ops)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juma-salim-69aaa921b/)  
 
 ---
 

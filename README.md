@@ -25,7 +25,7 @@
 
 ### 🌟 Projects & Open Source
 
-- **[Project 1](#)** – Full-stack CRUD application with MySql backend  
+- **[FridayBank-API](#)** – Bank API with MySql backend  
 
 ---
 

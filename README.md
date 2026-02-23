@@ -5,7 +5,7 @@
 🗄️ **Databases:** MySQL | PostgreSQL | Database Administration  
 📊 **Certified Data Scientist** | 🌐 **Network Engineer**  
 
-🚀 I build scalable web apps, optimize databases, and turn ideas into real solutions. Always learning, always coding.  
+🚀 I build scalable web apps, optimize databases, and turn ideas into real solutions. Always learning, always coding getting better everyday.  
 
 ---
 

@@ -25,7 +25,7 @@
 
 ### 🌟 Projects & Open Source
 
-- **[FridayBank-API](#)** – Bank API with MySql backend  
+- **[FridayBank-API](#)** – Bank API using springboot with MySql backend  
 
 ---
 
